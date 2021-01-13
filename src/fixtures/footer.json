@@ -1,0 +1,27 @@
+[
+  [
+    { "id": 0, "link": "#", "name": "FAQ" },
+    { "id": 1, "link": "#", "name": "Investor Relations" },
+    { "id": 2, "link": "#", "name": "Ways to Watch" },
+    { "id": 3, "link": "#", "name": "Corporate Information" },
+    { "id": 4, "link": "#", "name": "Netflix Originals" }
+  ],
+  [
+    { "id": 5, "link": "#", "name": "Help Centre" },
+    { "id": 6, "link": "#", "name": "Jobs" },
+    { "id": 7, "link": "#", "name": "Terms of Use" },
+    { "id": 8, "link": "#", "name": "Contact Us" }
+  ],
+  [
+    { "id": 9, "link": "#", "name": "Account" },
+    { "id": 10, "link": "#", "name": "Redeem gift cards" },
+    { "id": 11, "link": "#", "name": "Privacy" },
+    { "id": 12, "link": "#", "name": "Speed Test" }
+  ],
+  [
+    { "id": 13, "link": "#", "name": "Media Centre" },
+    { "id": 14, "link": "#", "name": "Buy gift cards" },
+    { "id": 15, "link": "#", "name": "Cookie Preferences" },
+    { "id": 16, "link": "#", "name": "Legal Notices" }
+  ]
+]

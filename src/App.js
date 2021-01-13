@@ -1,14 +1,13 @@
-import React from 'react';
-import JumbotronContainer from './containers/jumbotron';
-import FooterContainer from './containers/footer';
+import JumbotronContainer from './containers/Jumbotron';
+import FaqsContainer from './containers/Faqs';
+import FooterContainer from './containers/Footer';
 
-const App = () => {
-  return (
-    <>
-      <JumbotronContainer />
-      <FooterContainer />
-    </>
-  );
-};
+const App = () => (
+  <>
+    <JumbotronContainer />
+    <FaqsContainer />
+    <FooterContainer />
+  </>
+);
 
 export default App;
