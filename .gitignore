@@ -21,3 +21,5 @@ yarn-debug.log*
 yarn-error.log*
 
 prod.env
+
+./src/seed.js
