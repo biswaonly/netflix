@@ -1,8 +1,8 @@
 import { Feature, OptForm } from "../components";
 import HeaderContainer from "../containers/Header";
-import JumbotronContainer from "../containers/JumboCnt";
-import FaqsContainer from "../containers/FaqCnt";
-import FooterContainer from "../containers/FootCnt";
+import JumbotronContainer from "../containers/Jumbotron";
+import FaqsContainer from "../containers/Faqs";
+import FooterContainer from "../containers/Footer";
 
 const Home = () => (
   <>

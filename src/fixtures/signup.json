@@ -1,0 +1,5 @@
+[
+  { "name": "firstName", "type": "text", "placeholder": "First name" },
+  { "name": "emailAddress", "type": "text", "placeholder": "Email address" },
+  { "name": "password", "type": "password", "placeholder": "Password" }
+]
